@@ -1,1 +1,5 @@
-Amin Azizzade,ceng,eng,2,3,4,4,4,1
+Mehmet,ceng,3,turk,3,3,4,3,4,1002,
+Eyşan,ceng,2,turk,4,4,3,4,4,999,
+Orhan,ceng,1,eng,4,4,4,3,3,1001,
+Amin,ceng,1,eng,4,3,2,4,4,997,
+Melike,ceng,1,turk,4,2,3,2,4,998,
